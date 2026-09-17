@@ -36,8 +36,6 @@ I'm currently looking for **entry-level Data Analyst** opportunities where I can
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white)
 
-*(Edit this list to only include tools you're actually comfortable talking about in an interview — a shorter honest list beats a long inflated one.)*
-
 ---
 
 ### 📂 Featured Projects
