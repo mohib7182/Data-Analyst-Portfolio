@@ -76,7 +76,8 @@ Cleaned a 10,000-row insurance operations export in Power Query and built a Powe
 - Surfaced the core finding: claims (≈16.9M) outpace premiums (≈5.97M) in every policy line — a ratio of ≈2.8x with a ≈43.5% rejection rate
 
 **Tools:** Power Query, Power BI Desktop
-**[📄 Full write-up](https://docs.google.com/document/d/1VzKag4eP6a_fUPd3oIlN3-hYs5vMuQa57WVlRxOtSRQ/edit?usp=sharing)**
+**[📄 Full write-up](https://docs.google.com/document/d/1VzKag4eP6a_fUPd3oIlN3-hYs5vMuQa57WVlRxOtSRQ/edit?usp=sharing)** · **[📁 Raw dataset (CSV)](https://docs.google.com/spreadsheets/d/1DSz6TGdELZWczhQxy8d9lY3ogc4c3xBGdnsQPVxRoBM/edit?usp=sharing)**
+
 
 ### 🌱 Currently Learning
 - [ ] Advanced SQL (window functions, query optimization)
