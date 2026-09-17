@@ -66,6 +66,18 @@ One or two sentences on what the project does and what you learned from it.
 
 ---
 
+#### 📊 [Insurance Policy & Claims Analysis (Power BI)](ADD-LINK-HERE)
+Cleaned a 10,000-row insurance operations export in Power Query and built a Power BI dashboard comparing claims activity against premium income across five policy lines.
+
+- Enabled full-dataset column profiling instead of the default 1,000-row sample, which exposed data quality issues invisible in the preview
+- Removed duplicate policy records on `PolicyNumber`, confirming 10,000 distinct / 10,000 unique values afterward
+- Diagnosed a ~60% type-conversion error rate on three date columns as a locale mismatch (DD-MM-YYYY read as month-first) and resolved it with *Change Type Using Locale* → English (United Kingdom)
+- Built KPI cards and a quick measure for a claims-to-premium ratio, plus a Rejection Rate measure
+- Surfaced the core finding: claims (≈16.9M) outpace premiums (≈5.97M) in every policy line — a ratio of ≈2.8x with a ≈43.5% rejection rate
+
+**Tools:** Power Query, Power BI Desktop
+**[📄 Full write-up](ADD-LINK-HERE)**
+
 ### 🌱 Currently Learning
 - [ ] Advanced SQL (window functions, query optimization)
 - [ ] Python for data analysis (Pandas, data visualization)
