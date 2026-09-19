@@ -64,7 +64,7 @@ One or two sentences on what the project does and what you learned from it.
 
 ---
 
-#### 📊 [Insurance Policy & Claims Analysis (Power BI)](ADD-LINK-HERE)
+#### 📊 [Insurance Policy & Claims Analysis (Power BI)](https://github.com/mohib7182/Insurance_Analysis_Project_Power_Bi)
 Cleaned a 10,000-row insurance operations export in Power Query and built a Power BI dashboard comparing claims activity against premium income across five policy lines.
 
 - Enabled full-dataset column profiling instead of the default 1,000-row sample, which exposed data quality issues invisible in the preview
@@ -75,12 +75,6 @@ Cleaned a 10,000-row insurance operations export in Power Query and built a Powe
 
 **Tools:** Power Query, Power BI Desktop
 **[📄 Full write-up](https://docs.google.com/document/d/1VzKag4eP6a_fUPd3oIlN3-hYs5vMuQa57WVlRxOtSRQ/edit?usp=sharing)** · **[📁 Raw dataset (CSV)](https://docs.google.com/spreadsheets/d/1DSz6TGdELZWczhQxy8d9lY3ogc4c3xBGdnsQPVxRoBM/edit?usp=sharing)**
-
-
-### 🌱 Currently Learning
-- [ ] Advanced SQL (window functions, query optimization)
-- [ ] Python for data analysis (Pandas, data visualization)
-- [ ] Dashboarding in Tableau / Power BI
 
 ---
 
